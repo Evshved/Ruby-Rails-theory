@@ -19,7 +19,9 @@
 "> Ruby Best Practices. Especially useful is the presence of the last part, where you can practice on the living examples of programs. </a>
 <a href="https://vk.com/doc62297506_437707752?hash=a8ee91e5d0f2f029dd&dl=4abcf0c18b0927d60b
 "> **pdf Eng** </a>
+
 * <a href="https://www.amazon.com/Refactoring-Ruby-William-C-Wake/dp/0321545044"> Refactoring in Ruby.More a reference book than a tutorial. </a>
+
 * <a href="http://shop.oreilly.com/product/9780596516178.do">The Ruby programming language, book by David Flanagan, Yukihiro Matsumoto</a>  <a href="http://haris-krajina.rhcloud.com/wp-content/uploads/2013/01/baba.pdf">**pdf Enf**</a>
 
 * <a href="https://pragprog.com/book/ppmetr2/metaprogramming-ruby-2">We love Ruby for Metaprogramming. Metaclasses for all objects</a>
@@ -30,7 +32,9 @@
 ### A thorough literature for Rails:
 * <a href="http://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321944275">The Rails 4 Way </a>
 <a href="https://new.vk.com/doc62297506_437579021?hash=a1504c8e02e0c80fb9&dl=4aac5232be13375d5f">**pdf Eng**</a>
+
 * <a href="https://pragprog.com/book/rails5/agile-web-development-with-rails-5">Agile Web Development with Rails 5</a>
+
 * <a href="https://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814
 ">Rails AntiPatterns: Best Practice Ruby on Rails Refactoring. The book is about how not to write code using Rails. A good reason to learn from the mistakes of others. </a>
 
@@ -43,7 +47,9 @@
 ### What are the programming patterns?
 * <a href="http://www.amazon.com/Design-Patterns-Object-Oriented-Professional-Computing/dp/0201634988">Design Patterns in Ruby. MUSTREAD for those who are not familiar with design patterns. </a>
 <a href="https://vk.com/doc62297506_437707764?hash=a5d6259ce471f08f84&dl=8adb4f3cc43a712f45"> **pdf Eng**  </a>
+
 * <a href="http://www.amazon.com/Design-Patterns-Object-Oriented-Professional-Computing/dp/0201634988">Design Patterns: Elements of Reusable Object-Oriented Software  </a>
+
 *  <a href="https://sourcemaking.com/design_patterns">For people who want to become programming ninjas </a>
 
 ### Tests and TDD

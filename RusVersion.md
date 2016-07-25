@@ -13,16 +13,22 @@
 
 * <a href="http://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1617291692/ref=sr_1_9?s=books&ie=UTF8&qid=1412257416&sr=1-9&keywords=ruby">The Well-Grounded Rubyist, 2nd Edition. Правильный порядок изложения материала, затронуты все темы. </a>
 <a href="https://new.vk.com/doc62297506_437578999?hash=cad1768c118c34d535&dl=4631f48cf8d6a106b3"> **pdf Eng** </a>
+
 * <a href="https://github.com/arbox/ruby-style-guide/blob/master/README-ruRU.md">Ruby Style Guide. Промышленная разработка. Как писать красивый код на Ruby? </a>
+
 * <a href="https://www.amazon.com/Programming-Ruby-Pragmatic-Programmers-Second/dp/0974514055?ie=UTF8&ref_=asap_bc"> Programming Ruby: The Pragmatic Programmers' Guide. Самый известный учебник по Ruby </a>
 <a href="https://vk.com/doc62297506_437707733?hash=92921d59c8ccffb9d3&dl=63943eb7929d700271"> **pdf Eng** </a>
+
 * <a href="http://shop.oreilly.com/product/9780596523015.do
 "> Ruby Best Practices. Особенно полезна наличием последней части, где можно потренироваться на живых примерах программ. </a>
 <a href="https://vk.com/doc62297506_437707752?hash=a8ee91e5d0f2f029dd&dl=4abcf0c18b0927d60b
 "> **pdf Eng** </a>
+
 * <a href="https://www.amazon.com/Refactoring-Ruby-William-C-Wake/dp/0321545044"> Refactoring in Ruby. Больше справочник, чем учебник. </a>
+
 * <a href="https://pragprog.com/book/ppmetr2/metaprogramming-ruby-2">Metaprogramming Ruby. Драгоценный камень языка - метаклассы у всех объектов</a>
 <a href="https://new.vk.com/doc62297506_437578989?hash=8877db4b2169e65f54&dl=9e9b695fb17ebaa662"> **pdf Eng** </a>
+
 * <a href="http://shop.oreilly.com/product/9780596516178.do">The Ruby programming language, книга от известной  O'Reilly Media</a>  <a href="http://haris-krajina.rhcloud.com/wp-content/uploads/2013/01/baba.pdf"> **pdf Eng** </a>
 
 ### Основательная литература по Rails:
@@ -46,8 +52,10 @@
 ### Что такое паттерны?
 * <a href="http://www.amazon.com/Design-Patterns-Object-Oriented-Professional-Computing/dp/0201634988">Design Patterns in Ruby. Обязательна для тех, кто не знаком с паттернами проектирования. </a>
 <a href="https://vk.com/doc62297506_437707764?hash=a5d6259ce471f08f84&dl=8adb4f3cc43a712f45"> **pdf Eng**  </a>
+
 * <a href="https://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/0321490452">Design Patterns: Elements of Reusable Object-Oriented Software  </a>
 <a href="http://www.sugardas.lt/~p2d/books/Priemioop.pdf"> **pdf Rus**  </a>
+
 *  <a href="https://sourcemaking.com/design_patterns">For people who want to become programming ninjas на английском  </a>
 
 ### Тестирование

@@ -6,7 +6,7 @@
 
 ### Контакты
 
-| Конференция |      Автор      |
+| Conference |      Author      |
 |----------|:-------------:|------:|
 | [<img src="http://i-cdn.phonearena.com/images/article/52251-thumb/Telegram-secure-instant-messaging-app-review-encrypted-speed.jpg">](https://telegram.me/rubylang) | [<img src="https://pp.vk.me/c630931/v630931506/2ab56/L-7WQ-DfJrU.jpg">](https://telegram.me/Eugene_Shved) | 1|
 
