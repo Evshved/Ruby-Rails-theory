@@ -67,4 +67,4 @@
 
 
 ######*Links of literature in this gist are for trial reading.*
-######Существует русская версия данной теории. <a href="https://gist.github.com/Evshved/efdcf91ad1ed1cba4c40dd6553c9b9f3"> click </a>
+######Существует русская версия данной теории. <a href="https://github.com/Evshved/Ruby-Rails-theory/blob/master/RusVersion.md"> click </a>

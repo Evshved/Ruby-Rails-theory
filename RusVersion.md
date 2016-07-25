@@ -71,4 +71,4 @@
 
 ######*Ссылки на приведенную литературу, в виде pdf форматов, размещены для ознакомительного чтения.*
 ######*Links of literature in this gist are for trial reading.*
-######Существует английская версия данной теории. <a href="https://gist.github.com/Evshved/36d836c63e2e72ab90eb2cf581f5760d"> click </a>
+######Существует английская версия данной теории. <a href="https://github.com/Evshved/Ruby-Rails-theory/blob/master/EngVersion.md"> click </a>
