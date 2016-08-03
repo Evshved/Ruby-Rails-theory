@@ -42,6 +42,7 @@
 * <a href="http://www.ozon.ru/context/detail/id/26011201/">Rails 4. Гибкая разработка веб-приложений.   С. Руби, Д. Томас, Д. Хейнмейер </a>
 <a href="https://new.vk.com/doc62297506_437579020?hash=85540853bb18c18ff8&dl=264b77b9b3a4da1a81"> **pdf Rus** </a>
 
+* <a href="https://youtu.be/joDh2Eo4Wr4?list=PLjDTYCGblGbGwTuAFOH2SyZ6wP488Rh0l"> Ruby on Rails. Неожиданные трудности </a>
 
 
 
