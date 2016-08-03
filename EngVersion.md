@@ -56,7 +56,7 @@
 
 * <a href="https://pragprog.com/book/achbd/the-rspec-book">The RSpec Book, David Chelimsky. Book describing the development on the basis of tests and behavior. </a>
 <a href="https://vk.com/doc62297506_437707879?hash=7f8001ebdf6476ada3&dl=bedd89ff5bd9d53fbf"> **pdf Eng** </a>
-* <a href="https://www.youtube.com/watch?v=qT5iriwidRg&list=PLjDTYCGblGbGwTuAFOH2SyZ6wP488Rh0l&index=4">TThe Design of Tests. Youtube </a>
+* <a href="https://www.youtube.com/watch?v=qT5iriwidRg&list=PLjDTYCGblGbGwTuAFOH2SyZ6wP488Rh0l&index=4">The Design of Tests. Youtube </a>
 
 
 ### Podcasts
