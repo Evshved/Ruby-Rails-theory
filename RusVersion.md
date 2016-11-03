@@ -26,9 +26,8 @@
 * <a href="https://www.amazon.com/Refactoring-Ruby-William-C-Wake/dp/0321545044"> Refactoring in Ruby. Больше справочник, чем учебник. </a>
 
 * <a href="https://pragprog.com/book/ppmetr2/metaprogramming-ruby-2">Metaprogramming Ruby. Драгоценный камень языка - метаклассы у всех объектов</a>
-<a href="https://new.vk.com/doc62297506_437578989?hash=8877db4b2169e65f54&dl=9e9b695fb17ebaa662"> **pdf Eng** </a>
 
-* <a href="http://shop.oreilly.com/product/9780596516178.do">The Ruby programming language, книга от известной  O'Reilly Media</a>  <a href="http://haris-krajina.rhcloud.com/wp-content/uploads/2013/01/baba.pdf"> **pdf Eng** </a>
+* <a href="http://shop.oreilly.com/product/9780596516178.do">The Ruby programming language, книга от известной  O'Reilly Media</a> 
 
 ### Основательная литература по Rails:
 * <a href="http://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321944275">The Rails 4 Way </a>
