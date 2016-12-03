@@ -4,7 +4,7 @@
 * <a href="https://github.com/Evshved/Ruby-Rails-theory/blob/master/RusVersion.md"> Русская версия </a>
 
 
-### Контакты
+### Contact Us 
 
 | Conference |      Author      |
 |----------|:-------------:|------:|
