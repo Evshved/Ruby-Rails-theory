@@ -1,8 +1,8 @@
-###So you want to become a full-stack developer: What? Why?
+### So you want to become a full-stack developer: What? Why?
 * <a href="https://gun.io/blog/hackers-guide-to-hiring-a-ruby-on-rails-developer/">Guide to hiring a Ruby on Rails Developer</a>
 
 
-###For beginners:
+### For beginners:
 * <a href="http://poignant.guide/">Great guide, made in the form of comics.</a>
 * <a href="https://www.railstutorial.org/">Classic guide by Michael Hart Hart.</a>
 * <a href="http://guides.rubyonrails.org/">This guide covers ways in which you can become a part of the ongoing development of Ruby on Rails.</a>
@@ -63,5 +63,5 @@
 | [<img src="http://i-cdn.phonearena.com/images/article/52251-thumb/Telegram-secure-instant-messaging-app-review-encrypted-speed.jpg">](https://telegram.me/rubylang) | [<img src="https://pp.vk.me/c630931/v630931506/2ab56/L-7WQ-DfJrU.jpg">](https://telegram.me/Eugene_Shved) | 1|
 
 
-######*Links of literature in this gist are for trial reading.*
-######Существует русская версия данной теории. <a href="https://github.com/Evshved/Ruby-Rails-theory/blob/master/RusVersion.md"> click </a>
+###### *Links of literature in this gist are for trial reading.*
+###### Существует русская версия данной теории. <a href="https://github.com/Evshved/Ruby-Rails-theory/blob/master/RusVersion.md"> click </a>
