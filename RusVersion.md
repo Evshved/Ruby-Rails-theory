@@ -66,16 +66,9 @@
 
 ### Контакты
 
-<table>
- +  <tr>
- +    <th>Конференция</th>
- +    <th>Автор</th>
- +  </tr>
- +  <tr>
- +    <td><a href="https://telegram.me/rubylang"><img src="http://i-cdn.phonearena.com/images/article/52251-thumb/Telegram-secure-instant-messaging-app-review-encrypted-speed.jpg"></a></td>
- +    <td><a href="https://telegram.me/Eugene_Shved"><img src="https://pp.vk.me/c630931/v630931506/2ab56/L-7WQ-DfJrU.jpg"></a></td>
- +  </tr>
- +</table>
+| Чат в Telegram |      Автор      |
+|-|-|
+|[<img src="http://i-cdn.phonearena.com/images/article/52251-thumb/Telegram-secure-instant-messaging-app-review-encrypted-speed.jpg">](https://telegram.me/rubylang) | [<img src="https://pp.vk.me/c630931/v630931506/2ab56/L-7WQ-DfJrU.jpg">](https://telegram.me/Eugene_Shved) | 
 
 ###### *Ссылки на приведенную литературу, в виде pdf форматов, размещены для ознакомительного чтения.*
 ###### *Links of literature in this gist are for trial reading.*
