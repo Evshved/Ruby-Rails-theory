@@ -10,37 +10,29 @@
 
 
 ### Вы определись, что ваш язык - Ruby
-
 * <a href="http://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1617291692/ref=sr_1_9?s=books&ie=UTF8&qid=1412257416&sr=1-9&keywords=ruby">The Well-Grounded Rubyist, 2nd Edition. Правильный порядок изложения материала, затронуты все темы. </a>
 
 
 * <a href="https://github.com/arbox/ruby-style-guide/blob/master/README-ruRU.md">Ruby Style Guide. Промышленная разработка. Как писать красивый код на Ruby? </a>
-
 * <a href="https://www.amazon.com/Programming-Ruby-Pragmatic-Programmers-Second/dp/0974514055?ie=UTF8&ref_=asap_bc"> Programming Ruby: The Pragmatic Programmers' Guide. Самый известный учебник по Ruby </a>
 
 
 * <a href="http://shop.oreilly.com/product/9780596523015.do
 "> Ruby Best Practices. Особенно полезна наличием последней части, где можно потренироваться на живых примерах программ. </a>
-
-
 * <a href="https://www.amazon.com/Refactoring-Ruby-William-C-Wake/dp/0321545044"> Refactoring in Ruby. Больше справочник, чем учебник. </a>
-
 * <a href="https://pragprog.com/book/ppmetr2/metaprogramming-ruby-2">Metaprogramming Ruby. Драгоценный камень языка - метаклассы у всех объектов</a>
-
 * <a href="http://shop.oreilly.com/product/9780596516178.do">The Ruby programming language, книга от известной  O'Reilly Media</a> 
 
 ### Основательная литература по Rails:
 * <a href="http://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321944275">The Rails 4 Way </a>
-
 * <a href="https://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814
 ">Rails AntiPatterns: Best Practice Ruby on Rails Refactoring. Книга о том, как не надо писать с помощью Rails. Хороший повод поучиться на чужих ошибках. </a>
-
-
 * <a href="http://www.ozon.ru/context/detail/id/26011201/">Rails 4. Гибкая разработка веб-приложений.   С. Руби, Д. Томас, Д. Хейнмейер </a>
-
 * <a href="https://youtu.be/joDh2Eo4Wr4?list=PLjDTYCGblGbGwTuAFOH2SyZ6wP488Rh0l"> Ruby on Rails. Неожиданные трудности </a>
-
-
+* <a href="http://courseware.codeschool.com.s3.amazonaws.com/rails4patterns/rails_4_patterns.pdf
+">Rails 4 Паттерны. В виде презентации. </a>
+* <a href="http://courseware.codeschool.com.s3.amazonaws.com/Rails_Best_Practices_Slides.pdf
+">Rails best practices. </a>
 
 
 ### Основательный труд по компьютерным сетям:
