@@ -31,7 +31,10 @@
 
 * <a href="https://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814
 ">Rails AntiPatterns: Best Practice Ruby on Rails Refactoring. The book is about how not to write code using Rails. A good reason to learn from the mistakes of others. </a>
-
+* <a href="http://courseware.codeschool.com.s3.amazonaws.com/rails4patterns/rails_4_patterns.pdf
+">Rails 4 Patterns. Slides. Amazing information. </a>
+* <a href="http://courseware.codeschool.com.s3.amazonaws.com/Rails_Best_Practices_Slides.pdf
+">Rails best practices. </a>
 
 ### Computer Networks:
 * <a href="https://www.amazon.com/Computer-Networks-5th-Andrew-Tanenbaum/dp/0132126958/ref=sr_1_1?s=books&ie=UTF8&qid=1467565598&sr=1-1&keywords=computer+networking+tanenbaum">Computer Networks (5th Edition)  </a>
