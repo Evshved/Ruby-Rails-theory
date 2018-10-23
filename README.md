@@ -1,4 +1,4 @@
-### Hi! It's links help you to becoming a Ruby on Rails developer.
+### Hi! These links will help you learn more about Ruby and Rails.
 
 * <a href="https://github.com/Evshved/Ruby-Rails-theory/blob/master/EngVersion.md"> English version </a>
 * <a href="https://github.com/Evshved/Ruby-Rails-theory/blob/master/RusVersion.md"> Русская версия </a>
